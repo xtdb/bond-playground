@@ -1,0 +1,8 @@
+= XTQL James Bond Playground
+
+== Getting started:
+
+* To start a REPL, run `clj -M:xtdb:nrepl`, and then connect to it from your editor of choice.
+* You'll then have a running XTDB node at `user/xt-node` - query it to your heart's content!
+
+For more information, see the main XTDB docs.
